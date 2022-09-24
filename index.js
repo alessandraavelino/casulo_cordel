@@ -183,6 +183,8 @@ function abrirModalIndicacoes(){
     modalApostilas.style.display = 'none'
     modalEventos.style.display = 'none'
     modalIndicacoes.style.display = 'block'
+
+    
   }
   $(".imgEvento").fadeOut(10).fadeIn(1000)
 }
